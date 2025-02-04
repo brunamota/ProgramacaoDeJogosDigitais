@@ -17,4 +17,13 @@ Quinta - -07h00 às 12h25 - LEC 03
 
 ## Documentos importantes
 
-![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36)
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Metodologia Senai]
+
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) Planos de Cursos
+
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) Aulas
+
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) Atividades
+
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) Projetos
+
