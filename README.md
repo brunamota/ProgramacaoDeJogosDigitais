@@ -9,9 +9,12 @@
 
 ## Horário das Aulas
 
-Quarta - 07h00 às 12h25 - LEC 03
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) CEPI Cecília Meireles
 
-Quinta - 07h00 às 12h25 - LEC 03
+- Terça - 09h00 às 12h25
+- 
+
+Quarta - 07h00 às 12h25
 
 ## Ferramentas Utilizadas
 
