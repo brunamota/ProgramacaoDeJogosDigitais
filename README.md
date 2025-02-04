@@ -16,3 +16,5 @@ Quinta - -07h00 às 12h25 - LEC 03
 ## Ferramentas Utilizadas
 
 ## Documentos importantes
+
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36)
