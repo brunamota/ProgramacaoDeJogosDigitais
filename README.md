@@ -19,7 +19,7 @@ Quinta - 07h00 às 12h25 - LEC 03
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Metodologia Senai](https://github.com/user-attachments/files/18657295/Metodologia.de.Ensino.SENAI.pdf)
 
-![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Planos de Cursos](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/PlanosDeCurso.md)
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Planos de Ensino](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/PlanosDeCurso.md)
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Aulas](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/Atividades.md)
 
