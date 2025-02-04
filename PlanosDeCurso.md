@@ -1,6 +1,6 @@
 <div align="center">
 
-![cabecalhoGitUp](https://github.com/user-attachments/assets/3c6e4b4d-da56-42a0-bd68-53bb52b20eb5)
+![cabecalhoGitUp](https://github.com/user-attachments/assets/37d17330-2f59-4eba-b6e0-7941829d74d0)
 
 </div>
 
