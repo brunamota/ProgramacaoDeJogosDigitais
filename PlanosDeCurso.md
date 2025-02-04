@@ -4,6 +4,6 @@
 
 </div>
 
-![iconGitMoeda](https://github.com/user-attachments/assets/b33b82c4-b95f-463f-b151-dfb8b700870b) Plano
+![iconGitMoeda](https://github.com/user-attachments/assets/b33b82c4-b95f-463f-b151-dfb8b700870b) 
 
 
