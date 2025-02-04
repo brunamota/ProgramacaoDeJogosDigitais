@@ -11,7 +11,7 @@
 
 Quarta - 07h00 às 12h25 - LEC 03
 
-Quinta - -07h00 às 12h25 - LEC 03
+Quinta - 07h00 às 12h25 - LEC 03
 
 ## Ferramentas Utilizadas
 
