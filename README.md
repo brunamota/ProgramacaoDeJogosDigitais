@@ -11,13 +11,13 @@
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) CEPI Cecília Meireles
 
-- Segunda - 09h25 às 17h00
-- Terça - 7h00 às 11h55
+  - Segunda - 09h25 às 17h00
+  - Terça - 7h00 às 11h55
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) CE José Bonifacio Da Silva
 
-- Quarta - 7h00 às 12h25
-- Quinta - 7h00 às 12h25
+  - Quarta - 7h00 às 12h25
+  - Quinta - 7h00 às 12h25
 
 ## Ferramentas Utilizadas
 
