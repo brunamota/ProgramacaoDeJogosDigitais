@@ -16,8 +16,8 @@
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) CE José Bonifacio Da Silva
 
-  - Quarta - 7h00 às 12h25
-  - Quinta - 7h00 às 12h25
+  - Quarta - 7h00 às 12h20
+  - Quinta - 7h00 às 12h20
 
 ## Ferramentas Utilizadas
 
