@@ -5,5 +5,5 @@
 </div>
 
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) 
+![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) [Introdução a lógica de Computacional](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Introdu%C3%A7%C3%A3o%20a%20l%C3%B3gica%20de%20Computacional.pdf)
 
