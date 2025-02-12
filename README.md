@@ -21,7 +21,7 @@
 
 ## Ferramentas Utilizadas
 
-[Godot](https://godotengine.org/download/windows/)
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Godot](https://godotengine.org/download/windows/)
 
 ## Documentos importantes
 
