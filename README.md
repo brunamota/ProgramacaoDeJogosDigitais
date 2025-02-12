@@ -21,9 +21,13 @@
 
 ## Ferramentas Utilizadas
 
+[Godot](https://godotengine.org/download/windows/)
+
 ## Documentos importantes
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Metodologia Senai](https://github.com/user-attachments/files/18657295/Metodologia.de.Ensino.SENAI.pdf)
+
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Plano de Curso](https://github.com/user-attachments/files/18769461/PC_SEDUC_Tecnico.em.Programacao.de.Jogos.Digitais.vs1.1.pdf)
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Planos de Ensino](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/PlanosDeEnsino.md)
 
