@@ -29,11 +29,11 @@
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Plano de Curso](https://github.com/user-attachments/files/18769461/PC_SEDUC_Tecnico.em.Programacao.de.Jogos.Digitais.vs1.1.pdf)
 
-![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Planos de Ensino](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/PlanosDeEnsino.md)
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Planos de Ensino](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/MarkDown/PlanosDeEnsino.md)
 
-![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Aulas](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/Aulas.md)
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Aulas](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/MarkDown/Aulas.md)
 
-![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Atividades](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/Atividades.md)
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Atividades](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/MarkDown/Atividades.md)
 
-![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Projetos](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/Projetos.md)
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Projetos](https://github.com/brunamota/DesenvolvimentoDeJogosDigitais/blob/main/MarkDown/Projetos.md)
 
