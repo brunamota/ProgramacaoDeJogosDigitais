@@ -4,7 +4,7 @@
 
 </div>
 
-## 📚 Projetos por Unidade Curricular para avaliação semestral do 1º ano do Ensino Médio
+## 📚 Projetos por Unidade Curricular para avaliação bimestral do 1º ano do Ensino Médio
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) Projeto de Vida
 
@@ -20,11 +20,11 @@
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) Fundamentos de Jogos Digitais
 
-![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) [Metodologias de Desenvolvimento de Projetos](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Sprint%20anual%201%C2%BA%20ano%20-%20Metodologias%20de%20Desenvolvimento%20de%20Projetos.pdf)
+![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) [Metodologias de Desenvolvimento de Projetos](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Avalia%C3%A7%C3%B5es%20Bimestrais%201%C2%BA%20ano%20-%20Metodologias%20de%20Desenvolvimento%20de%20Projetos.pdf)
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) Lógica de Programação
 
-## 📚 Projetos por Unidade Curricular para avaliação semestral do 2º ano do Ensino Médio
+## 📚 Projetos por Unidade Curricular para avaliação bimestral do 2º ano do Ensino Médio
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) Projeto de Vida
 
@@ -38,7 +38,7 @@
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) Testes de Jogos Digitais I
 
-## 📚 Projetos por Unidade Curricular para avaliação semestral do 3º ano do Ensino Médio
+## 📚 Projetos por Unidade Curricular para avaliação bimestral do 3º ano do Ensino Médio
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) Projeto de Vida
 
