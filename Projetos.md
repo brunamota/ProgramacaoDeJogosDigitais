@@ -40,7 +40,8 @@
 
 ## 📚 Projetos por Unidade Curricular para avaliação semestral do 3º ano do Ensino Médio
 
-Projeto de Vida
+![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) Projeto de Vida
+
 ![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) Qualidade e Produtividade
 
 ![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) Fundamentos de UI/UX Design
