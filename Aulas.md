@@ -24,13 +24,13 @@
 
 ### 📖 Lógica computacional
 
-  ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) [Introdução a lógica Computacional](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Aula%20Introdu%C3%A7%C3%A3o%20a%20l%C3%B3gica%20Computacional.pdf)
+  -  [Introdução a lógica Computacional](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Aula%20Introdu%C3%A7%C3%A3o%20a%20l%C3%B3gica%20Computacional.pdf)
 
 ### 📖 Fundamentos de Jogos Digitais
 
 ### 📖 Metodologias de Desenvolvimento de Projetos
 
-  ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) [O que você precisa para deselvover um jogo?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/O%20que%20voc%C3%AA%20precisa%20para%20deselvover%20um%20jogo.pdf)
+  -  [O que você precisa para deselvover um jogo?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/O%20que%20voc%C3%AA%20precisa%20para%20deselvover%20um%20jogo.pdf)
 
 ### 📖 Lógica de Programação
 
