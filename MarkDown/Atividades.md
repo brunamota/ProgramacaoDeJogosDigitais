@@ -4,7 +4,7 @@
 
 </div>
 
-### 📚 Atividades feitas em sala para cada Unidade Curricular do quadro de aulas do 1º ano
+## 📚 Atividades feitas em sala para cada Unidade Curricular do quadro de aulas do 1º ano
 
 #### 📖 Projeto de Vida
 
@@ -42,7 +42,7 @@
 
 #### 📖 Lógica de Programação
 
-### 📚 Atividades feitas em sala para cada Unidade Curricular do quadro de aulas do 2º ano
+## 📚 Atividades feitas em sala para cada Unidade Curricular do quadro de aulas do 2º ano
 
 #### 📖 Projeto de Vida
 
@@ -56,7 +56,7 @@
 
 #### 📖 Testes de Jogos Digitais I
 
-### 📚 Atividades feitas em sala para cada Unidade Curricular do quadro de aulas do 3º ano
+## 📚 Atividades feitas em sala para cada Unidade Curricular do quadro de aulas do 3º ano
 
 #### 📖 Projeto de Vida
 
