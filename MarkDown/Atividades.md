@@ -16,6 +16,8 @@
 
 #### 📖 Fundamentos da Tecnologia da Informação e Comunicação
 
+- [Conhecendo melhor a turma](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Conhecendo%20a%20turma%20melhor.pdf)
+
 #### 📖 Fundamentos de bancos de dados
 
 #### 📖 Fundamentos de redes de computadores
