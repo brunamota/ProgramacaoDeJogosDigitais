@@ -30,6 +30,8 @@
 
 #### 📖 Metodologias de Desenvolvimento de Projetos
 
+- [Design Thinking](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Design%20Thinking.pdf)
+
 - [Diagrama de Afinidade](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Diagrama%20de%20Afinidade.pdf)
 
 - [Game Design Canvas](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Game%20Design%20Canvas.pdf)
