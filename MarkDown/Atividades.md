@@ -14,6 +14,8 @@
 
 #### 📖 Saúde e Segurança no Trabalho e Sustentabilidade
 
+- [Incluindo ODS no jogo](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Incluindo%20ODS%20no%20jogo.pdf)
+
 #### 📖 Fundamentos da Tecnologia da Informação e Comunicação
 
 - [Conhecendo melhor a turma](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Conhecendo%20a%20turma%20melhor.pdf)
