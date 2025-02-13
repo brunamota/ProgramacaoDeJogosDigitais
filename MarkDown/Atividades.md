@@ -22,6 +22,8 @@
 
 #### 📖 Lógica computacional
 
+- [Como trocar uma lâmpada?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Como%20trocar%20uma%20l%C3%A2mpada.pdf)
+
 #### 📖 Fundamentos de Jogos Digitais
 
 #### 📖 Metodologias de Desenvolvimento de Projetos
