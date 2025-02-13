@@ -20,6 +20,8 @@
 
 - [Conhecendo melhor a turma](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Conhecendo%20a%20turma%20melhor.pdf)
 
+- [Kahoot](kahoot.it/)
+
 #### 📖 Fundamentos de bancos de dados
 
 #### 📖 Fundamentos de redes de computadores
@@ -33,6 +35,8 @@
 - [Passa ou Repassa](https://www.flippity.net/qs.php?k=1JJYUqUSGiMw7RdXCsh3kNjF6COfUtVJ_A8s0j0Nd-IE)
 
 #### 📖 Metodologias de Desenvolvimento de Projetos
+
+- [Kahoot](kahoot.it/)
 
 - [Design Thinking](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Design%20Thinking.pdf)
 
