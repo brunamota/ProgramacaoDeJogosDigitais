@@ -30,6 +30,8 @@
 
 #### 📖 Fundamentos de Jogos Digitais
 
+- [Passa ou Repassa](https://www.flippity.net/qs.php?k=1JJYUqUSGiMw7RdXCsh3kNjF6COfUtVJ_A8s0j0Nd-IE)
+
 #### 📖 Metodologias de Desenvolvimento de Projetos
 
 - [Design Thinking](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Design%20Thinking.pdf)
