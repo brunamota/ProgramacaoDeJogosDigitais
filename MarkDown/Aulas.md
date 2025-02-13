@@ -8,9 +8,9 @@
 
 #### 📖 Aulas de Introdução do Curso
 
-  - [O que esperar de um curso de Programação de Jogos Digitais?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/O%20que%20esperar%20de%20um%20curso%20de%20Programa%C3%A7%C3%A3o%20de%20Jogos%20Digitais.pdf)
+  ![iconGitMoeda](https://github.com/user-attachments/assets/b33b82c4-b95f-463f-b151-dfb8b700870b) [O que esperar de um curso de Programação de Jogos Digitais?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/O%20que%20esperar%20de%20um%20curso%20de%20Programa%C3%A7%C3%A3o%20de%20Jogos%20Digitais.pdf)
 
-  - [Matérias base dos curso](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Mat%C3%A9rias%20bases%20do%20curso.pdf)
+  ![iconGitMoeda](https://github.com/user-attachments/assets/b33b82c4-b95f-463f-b151-dfb8b700870b) [Matérias base dos curso](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Mat%C3%A9rias%20bases%20do%20curso.pdf)
 
 #### 📖 Projeto de Vida
 
