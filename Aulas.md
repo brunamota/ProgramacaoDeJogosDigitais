@@ -4,7 +4,7 @@
 
 </div>
 
-## 📚 Matérias 1º ano do ensino médio
+## 📚 Matérias 1º ano do Ensino Médio
 
 #### 📖 Aulas de Introdução do Curso
 
@@ -34,7 +34,7 @@
 
 #### 📖 Lógica de Programação
 
-## 📚 Matérias 2º ano do ensino médio
+## 📚 Matérias 2º ano do Ensino Médio
 
 #### 📖 Projeto de Vida
 
@@ -48,7 +48,7 @@
 
 #### 📖 Testes de Jogos Digitais I
 
-## 📚 Matérias 3º ano do ensino médio
+## 📚 Matérias 3º ano do Ensino Médio
 
 #### 📖 Projeto de Vida
 
