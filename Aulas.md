@@ -12,50 +12,58 @@
 
   - [Matérias base dos curso](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Mat%C3%A9rias%20bases%20do%20curso.pdf)
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Projeto de Vida
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Projeto de Vida
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Saúde e Segurança no Trabalho e Sustentabilidade
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Saúde e Segurança no Trabalho e Sustentabilidade
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos da Tecnologia da Informação e Comunicação
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos da Tecnologia da Informação e Comunicação
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos de bancos de dados
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos de bancos de dados
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos de redes de computadores
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos de redes de computadores
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Lógica computacional
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Lógica computacional
 
   - [Introdução a lógica Computacional](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Aula%20Introdu%C3%A7%C3%A3o%20a%20l%C3%B3gica%20Computacional.pdf)
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos de Jogos Digitais
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos de Jogos Digitais
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Metodologias de Desenvolvimento de Projetos
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Metodologias de Desenvolvimento de Projetos
 
   - [O que você precisa para deselvover um jogo?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/O%20que%20voc%C3%AA%20precisa%20para%20deselvover%20um%20jogo.pdf)
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Lógica de Programação
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Lógica de Programação
 
 ## 📚 Matérias 2º ano do ensino médio
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Projeto de Vida
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Projeto de Vida
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e)
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Mundo do Trabalho 4.0
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e)
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Introdução ao Desenvolvimento de Projetos
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e)
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos de Programação de Jogos Digitais 
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e)
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Codificação de sistemas de Jogos Digitais
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e)
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Testes de Jogos Digitais I
 
 ## 📚 Matérias 3º ano do ensino médio
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Projeto de Vida
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Projeto de Vida
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e)
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Qualidade e Produtividade
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e)
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos de UI/UX Design
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e)
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Fundamentos do Design de elementos gráficos de Jogos Digitais
 
-![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e)
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Planejamento de elementos multimídia de Jogos Digitais
+
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Produção de elementos multimídia para Jogos Digitais
+
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Planejamento e Publicação de Jogos Digitais
+
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Testes de Jogos Digitais II
+
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Manutenção de Jogos Digitais
