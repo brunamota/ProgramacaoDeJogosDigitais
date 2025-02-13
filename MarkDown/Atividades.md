@@ -8,6 +8,8 @@
 
 #### 📖 Projeto de Vida
 
+- [O que eu quero ser quando crescer?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20O%20que%20eu%20quero%20ser%20quando%20crescer.pdf)
+
 - [Mapa da Empatia](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20Mapa%20da%20Empatia.pdf)
 
 #### 📖 Saúde e Segurança no Trabalho e Sustentabilidade
@@ -24,9 +26,9 @@
 
 #### 📖 Metodologias de Desenvolvimento de Projetos
 
-- [Diagrama de Afinidade](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Diagrama%20de%20Afinidade.pdf)
+- [Diagrama de Afinidade](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Diagrama%20de%20Afinidade.pdf)
 
-- [Game Design Canvas](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Game%20Design%20Canvas.pdf)
+- [Game Design Canvas](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Game%20Design%20Canvas.pdf)
 
 #### 📖 Lógica de Programação
 
