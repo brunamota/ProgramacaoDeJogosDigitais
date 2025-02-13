@@ -4,4 +4,11 @@
 
 </div>
 
-![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9)
+## 📚 Projetos por Unidade Curricular para avaliação semestral do 1º ano do Ensino Médio
+
+![iconGitMoeda](https://github.com/user-attachments/assets/37471e61-7777-46b6-bb2c-d4579dc6f9d9) 
+
+## 📚 Projetos por Unidade Curricular para avaliação semestral do 2º ano do Ensino Médio
+
+## 📚 Projetos por Unidade Curricular para avaliação semestral do 3º ano do Ensino Médio
+
