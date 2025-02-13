@@ -23,6 +23,12 @@
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Godot](https://godotengine.org/download/windows/)
 
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Python](https://www.python.org/downloads/)
+
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Sololearn](https://www.sololearn.com/pt/)
+
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Duolingo](https://pt.duolingo.com/)
+
 ## Documentos importantes
 
 ![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) [Metodologia Senai](https://github.com/user-attachments/files/18657295/Metodologia.de.Ensino.SENAI.pdf)
