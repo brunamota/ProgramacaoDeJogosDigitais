@@ -14,6 +14,8 @@
 
 #### 📖 Projeto de Vida
 
+- [Mapa da Empatia](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Projeto%20de%20vida%20-%20%20Mapa%20da%20Empatia.pdf)
+
 #### 📖 Saúde e Segurança no Trabalho e Sustentabilidade
 
 #### 📖 Fundamentos da Tecnologia da Informação e Comunicação
