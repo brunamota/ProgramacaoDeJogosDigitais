@@ -38,6 +38,8 @@
 
 - [Diagrama de Afinidade](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Diagrama%20de%20Afinidade.pdf)
 
+- [Jogo de Inspiração](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Jogo%20de%20Inspira%C3%A7%C3%A3o.pdf)
+
 - [Game Design Canvas](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Game%20Design%20Canvas.pdf)
 
 #### 📖 Lógica de Programação
