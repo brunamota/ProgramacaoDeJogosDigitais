@@ -6,7 +6,7 @@
 
 ## 📚 Matérias 1º ano do ensino médio
 
-### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Introduções
+### ![iconGitQuestion](https://github.com/user-attachments/assets/9f73cbfb-97a3-4655-80bb-8e923ebde72e) Aulas de Introdução do Curso
 
   - [O que esperar de um curso de Programação de Jogos Digitais?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/O%20que%20esperar%20de%20um%20curso%20de%20Programa%C3%A7%C3%A3o%20de%20Jogos%20Digitais.pdf)
 
