@@ -42,6 +42,8 @@
 
 - [Game Design Canvas](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Game%20Design%20Canvas.pdf)
 
+- [Apresentação do Pitch](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Apresenta%C3%A7%C3%A3o%20do%20Pitch.pdf)
+
 #### 📖 Lógica de Programação
 
 ## 📚 Atividades feitas em sala para cada Unidade Curricular do quadro de aulas do 2º ano
