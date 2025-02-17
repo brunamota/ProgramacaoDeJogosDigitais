@@ -30,7 +30,7 @@
 
 - [Como trocar uma lâmpada?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Como%20trocar%20uma%20l%C3%A2mpada.pdf)
   
-- [Questionário](https://wordwall.net/pt/resource/86859448)
+- [Questionário - Exercícios de Raciocínio Lógico](https://wordwall.net/pt/resource/86859448)
 
 #### 📖 Fundamentos de Jogos Digitais
 
