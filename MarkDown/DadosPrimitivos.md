@@ -1,6 +1,6 @@
-### Introdução a Dados Primitivos e Variáveis em Python
+# Introdução a Dados Primitivos e Variáveis em Python
 
-#### Introdução aos Dados Primitivos
+### Introdução aos Dados Primitivos
 - **Definição:** Dados primitivos são os tipos de dados básicos que uma linguagem de programação oferece.
 - **Principais tipos em Python:**
   - `int`: Números inteiros (ex: 5, -10)
@@ -8,7 +8,7 @@
   - `str`: Cadeias de caracteres (ex: "Olá, mundo!")
   - `bool`: Valores booleanos (True, False)
 
-#### Atribuição de Variáveis
+### Atribuição de Variáveis
 - **Definição:** Atribuição é o processo de armazenar um valor em uma variável.
 - **Sintaxe:**
   ```python
@@ -17,7 +17,7 @@
   altura = 1.75   # Atribuição de um float
   ```
 
-#### Variáveis Simples
+### Variáveis Simples
 - **Uso de variáveis:**
   - Variáveis permitem armazenar valores que podem ser utilizados em cálculos ou operações.
   - Exemplo:
@@ -62,12 +62,7 @@ nome completo = "Ana"   # Inválido (espaço no nome)
 if = "teste"            # Inválido (palavra reservada)
 ```
 
-### Atividade Prática
-- **Exercício:** Peça aos alunos para criar variáveis seguindo as regras e boas práticas mencionadas. Eles podem compartilhar suas variáveis e discutir se estão de acordo com as regras.
-
-Essas adições ajudarão os alunos a entender melhor como declarar e nomear variáveis corretamente em Python!
-
-#### Constantes
+### Constantes
 - **Definição:** Constantes são valores que não mudam durante a execução do programa.
 - **Conceito em Python:**
   - Embora Python não tenha uma forma nativa de definir constantes como em outras linguagens, uma convenção comum é usar letras maiúsculas.
@@ -102,9 +97,3 @@ altura = float(input("Digite sua altura em metros: "))
 
 print(f"Olá, {nome}! Você tem {idade} anos e sua altura é {altura} metros.")
 ```
-
-### Dicas para a Aula:
-- Use um ambiente interativo como Jupyter Notebook ou Google Colab para executar os exemplos em tempo real.
-- Encoraje os alunos a experimentarem com os conceitos, alterando os valores das variáveis e observando os resultados.
-
-Essa estrutura deve proporcionar uma aula clara e eficaz sobre o tema!
