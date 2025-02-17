@@ -1,6 +1,6 @@
 # Introdução a Dados Primitivos e Variáveis em Python
 
-### Introdução aos Dados Primitivos
+### Dados Primitivos
 - **Definição:** Dados primitivos são os tipos de dados básicos que uma linguagem de programação oferece.
 - **Principais tipos em Python:**
   - `int`: Números inteiros (ex: 5, -10)
@@ -27,7 +27,7 @@
   soma = a + b
   print(soma)  # Saída: 15
   ```
-- **Regras de Declaração de Variáveis em Python**
+### Regras de Declaração de Variáveis em Python
 
 1. **Nomes de Variáveis:**
    - Devem começar com uma letra (a-z, A-Z) ou um underscore (_).
@@ -44,6 +44,14 @@
 4. **Boas Práticas:**
    - Use nomes descritivos que indiquem o propósito da variável. Por exemplo, em vez de usar `x`, use `idade` ou `altura`.
    - Para variáveis compostas, use o estilo snake_case (ex: `minha_variavel`) para melhorar a legibilidade.
+  
+### Constantes
+- **Definição:** Constantes são valores que não mudam durante a execução do programa.
+- **Conceito em Python:**
+  - Embora Python não tenha uma forma nativa de definir constantes como em outras linguagens, uma convenção comum é usar letras maiúsculas.
+  ```python
+  PI = 3.14
+  ```
 
 ### Exemplos de Declarações Válidas e Inválidas
 
@@ -61,14 +69,6 @@ _nota_final = 8.5       # Válido
 nome completo = "Ana"   # Inválido (espaço no nome)
 if = "teste"            # Inválido (palavra reservada)
 ```
-
-### Constantes
-- **Definição:** Constantes são valores que não mudam durante a execução do programa.
-- **Conceito em Python:**
-  - Embora Python não tenha uma forma nativa de definir constantes como em outras linguagens, uma convenção comum é usar letras maiúsculas.
-  ```python
-  PI = 3.14
-  ```
 
 #### Entrada de Dados
 - **Função `input()`:** Usada para capturar entrada do usuário.
