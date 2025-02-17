@@ -35,6 +35,7 @@
 #### 📖 Fundamentos de Jogos Digitais
 
 - [Passa ou Repassa](https://www.flippity.net/qs.php?k=1JJYUqUSGiMw7RdXCsh3kNjF6COfUtVJ_A8s0j0Nd-IE)
+- [Flashcards sobre a História dos Jogos digitais](https://wordwall.net/pt/resource/86860995)
 
 #### 📖 Metodologias de Desenvolvimento de Projetos
 
