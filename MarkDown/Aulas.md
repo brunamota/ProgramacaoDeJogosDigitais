@@ -31,7 +31,7 @@
 
 #### 📖 Fundamentos de Jogos Digitais
 
-- [História dos jogos digitais - Evolução e Impacto Cultural ao Longo do Tempo](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Fundamentos%20de%20Jogos%20Digitais%20-%20Evolu%C3%A7%C3%A3o%20e%20Impacto%20Cultural%20ao%20Longo%20do%20Tempo.pdf)
+- [Evolução e Impacto Cultural ao Longo do Tempo](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Fundamentos%20de%20Jogos%20Digitais%20-%20Evolu%C3%A7%C3%A3o%20e%20Impacto%20Cultural%20ao%20Longo%20do%20Tempo.pdf)
 
 #### 📖 Metodologias de Desenvolvimento de Projetos
 
