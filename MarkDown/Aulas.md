@@ -28,6 +28,7 @@
 
   -  [Introdução a lógica Computacional](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Aula%20Introdu%C3%A7%C3%A3o%20a%20l%C3%B3gica%20Computacional.pdf)
   -  [Analisando Problemas e Abstrações Lógicas](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/L%C3%B3gica%20Computacional%20-%20Analisando%20Problemas%20e%20Abstra%C3%A7%C3%B5es%20L%C3%B3gicas.pdf)
+  -  [Estrutura de um algoritmo](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/MarkDown/L%C3%B3gica%20Computacional%20-%20Estrutura%20de%20um%20algoritmo.md)
 
 #### 📖 Fundamentos de Jogos Digitais
 
