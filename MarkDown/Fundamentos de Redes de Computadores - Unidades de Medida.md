@@ -1,4 +1,4 @@
-# Reconhecimento de Unidades de Medida na Transmissão e Armazenamento de Dados
+# Unidades de Medida na Transmissão e Armazenamento de Dados
 
 ## Objetivos da Aula
 - Compreender as principais unidades de medida utilizadas na transmissão e armazenamento de dados.
