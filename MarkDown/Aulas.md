@@ -25,6 +25,8 @@
 
 #### 📖 Fundamentos de redes de computadores
 
+- [Reconhecimento de Unidades de Medida na Transmissão e Armazenamento de Dados](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/MarkDown/Fundamentos%20de%20Redes%20de%20Computadores%20-%20Unidades%20de%20Medida)
+
 #### 📖 Lógica computacional
 
   -  [Introdução a lógica Computacional](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Aula%20Introdu%C3%A7%C3%A3o%20a%20l%C3%B3gica%20Computacional.pdf)
