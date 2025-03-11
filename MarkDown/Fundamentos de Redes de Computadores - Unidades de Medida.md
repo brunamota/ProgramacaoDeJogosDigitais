@@ -36,7 +36,7 @@
 ### 2.2. Importância da Taxa de Transmissão
 - A taxa de transmissão determina a velocidade com que os dados podem ser transferidos entre dispositivos. É crucial para a performance de redes, streaming e downloads.
 
-### 3. Diferenças entre Armazenamento e Transmissão
+## 3. Diferenças entre Armazenamento e Transmissão
 
 ### 3.1. Armazenamento
 - Relaciona-se à capacidade de armazenar dados em dispositivos como HDs, SSDs e pen drives. Medido em Bytes (KB, MB, GB, TB).
