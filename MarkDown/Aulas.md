@@ -45,6 +45,7 @@
 #### 📖 Lógica de Programação
 
 - [Introdução a Dados Primitivos e Variáveis](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/MarkDown/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20-%20Introdu%C3%A7%C3%A3o%20a%20Dados%20Primitivos%20e%20Vari%C3%A1veis.md)
+- [Estruturas Condicional em Python](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/MarkDown/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20-%20Estrutura%20Condicional.md)
 
 ## 📚 Matérias 2º ano do Ensino Médio
 
