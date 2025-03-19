@@ -1,10 +1,5 @@
 # Unidades de Medida na Transmissão e Armazenamento de Dados
 
-## Objetivos da Aula
-- Compreender as principais unidades de medida utilizadas na transmissão e armazenamento de dados.
-- Identificar a relação entre diferentes unidades de medida.
-- Aplicar o conhecimento em situações práticas.
-
 ## Introdução
 - **Importância das Unidades de Medida**: As unidades de medida são fundamentais para quantificar e entender a capacidade de armazenamento e a velocidade de transmissão de dados. Compreender essas unidades é essencial para profissionais de tecnologia, comunicação e ciências da computação.
 
