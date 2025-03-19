@@ -35,7 +35,7 @@
 #### 📖 Fundamentos de Jogos Digitais
 
 - [Passa ou Repassa](https://www.flippity.net/qs.php?k=1JJYUqUSGiMw7RdXCsh3kNjF6COfUtVJ_A8s0j0Nd-IE)
-- [Flashcards sobre a História dos Jogos digitais](https://wordwall.net/pt/resource/86860995)
+- [Flashcards sobre a História dos Jogos Digitais](https://wordwall.net/pt/resource/86860995)
 
 #### 📖 Metodologias de Desenvolvimento de Projetos
 
@@ -50,6 +50,9 @@
 - [Game Design Canvas](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Game%20Design%20Canvas.pdf)
 
 - [Apresentação do Pitch](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Atividade%20-%20Apresenta%C3%A7%C3%A3o%20do%20Pitch.pdf)
+  
+- [Desenvolvimento de Roteiro](https://twinery.org/)
+
 
 #### 📖 Lógica de Programação
 
