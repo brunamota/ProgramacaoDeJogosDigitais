@@ -16,8 +16,10 @@
 
 - [Mapa da Empatia](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Projeto%20de%20vida%20-%20%20Mapa%20da%20Empatia.pdf)
 - [Vantagens para a sua vida de ter Curso Técnico de Desenvolvimento no Currículo](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Projeto%20de%20Vida%20-%20Vantagens%20de%20um%20Curso%20T%C3%A9cnico%20de%20Desenvolvimento%20no%20Curr%C3%ADculo%20do%20Ensino%20M%C3%A9dio.pdf)
+- Diagrama de Afinidades
 
 #### 📖 Saúde e Segurança no Trabalho e Sustentabilidade
+  - Regras do laboratório
 
 #### 📖 Fundamentos da Tecnologia da Informação e Comunicação
 
