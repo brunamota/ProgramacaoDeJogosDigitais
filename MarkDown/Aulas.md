@@ -65,6 +65,7 @@
 
   -  [O que você precisa para deselvover um jogo?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/O%20que%20voc%C3%AA%20precisa%20para%20deselvover%20um%20jogo.pdf)
   -  [Diagrama de Afinidades](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Metodologias%20de%20Desenvolvimento%20de%20Projetos%20-%20Diagrama%20de%20Afinidades.pdf)
+  -  (Fases do Processo de Desenvolvimento de Software)[https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Metodologias%20de%20Desenvolvimento%20de%20Projetos%20-%20Fases%20do%20Processo%20de%20Software.pdf]
 </details>
 
 <details>
