@@ -13,7 +13,7 @@
 
   - [Matérias base dos curso](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Mat%C3%A9rias%20bases%20do%20curso.pdf)
 
-<details>
+</details>
   
 #### 📖 Projeto de Vida
 
