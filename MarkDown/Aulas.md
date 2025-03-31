@@ -5,9 +5,10 @@
 </div>
 
 ## 📚 Matérias 1º ano do Ensino Médio
+
 <details>
 
- <summary> #### 📖 Aulas de Introdução do Curso  </summary>summary>
+ <summary> 📖 Introdução do Curso  </summary>
 
   - [O que esperar de um curso de Programação de Jogos Digitais?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Metodologias%20de%20Desenvolvimento%20de%20Projetos%20-%20O%20que%20precisa%20para%20desenvolver%20um%20jogo.pdf)
 
