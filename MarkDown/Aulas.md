@@ -15,23 +15,35 @@
   - [Matérias base dos curso](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Mat%C3%A9rias%20bases%20do%20curso.pdf)
 
 </details>
-  
+
+
+  <details>
  <summary> 📖 Projeto de Vida </summary>
 
 - [Mapa da Empatia](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Arquivos/Projeto%20de%20vida%20-%20%20Mapa%20da%20Empatia.pdf)
 - [Vantagens para a sua vida de ter Curso Técnico de Desenvolvimento no Currículo](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Projeto%20de%20Vida%20-%20Vantagens%20de%20um%20Curso%20T%C3%A9cnico%20de%20Desenvolvimento%20no%20Curr%C3%ADculo%20do%20Ensino%20M%C3%A9dio.pdf)
 - Diagrama de Afinidades
+</details>
 
+<details>
  <summary> 📖 Saúde e Segurança no Trabalho e Sustentabilidade </summary>
   - Regras do laboratório
+</details>
 
+ <details>
  <summary> 📖 Fundamentos da Tecnologia da Informação e Comunicação </summary>
-
+ </details>
+ 
+ <details>
  <summary> 📖 Fundamentos de bancos de dados </summary>
+ </details>
+ 
+ <details>
 
  <summary> 📖 Fundamentos de redes de computadores </summary>
 
 - [Unidades de Medida na Transmissão e Armazenamento de Dados](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/MarkDown/Fundamentos%20de%20Redes%20de%20Computadores%20-%20Unidades%20de%20Medida.md)
+</details>
 
  <summary> 📖 Lógica computacional </summary>
 
