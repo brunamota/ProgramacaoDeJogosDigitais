@@ -14,7 +14,7 @@
   - Segunda - 09h25 às 17h00
   - Terça - 7h00 às 11h55
 
-![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) CE José Bonifacio Da Silva
+![iconGitEstela](https://github.com/user-attachments/assets/ad15bd21-43ae-4e47-90af-05eec943db36) CE Rui Barbosa
 
   - Quarta - 7h00 às 12h20
   - Quinta - 7h00 às 12h20
