@@ -51,7 +51,7 @@ while True:
 - Desafio 2: Tabuada
   - Escreva um programa que pede um número e imprime a tabuada de 1 a 10.
 
-## 🧠 Dica de Ouro
+## 🎁 Dica de Ouro
 
 - Quantas vezes você quer que o código repita?
 - Existe uma condição clara de parada?
