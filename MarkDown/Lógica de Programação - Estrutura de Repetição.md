@@ -44,7 +44,7 @@ while True:
     if valor > 0:
         break
 ```
-## 🎮 Atividade Prática (15 minutos)
+## 🎮 Atividade Prática
 
 - Desafio 1: Contador simples
   - Peça para o aluno imprimir os números de 1 a 10 usando um while.
