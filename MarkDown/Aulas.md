@@ -10,7 +10,7 @@
 
  <summary> 📖 Introdução do Curso  </summary>
 
-  - [O que esperar de um curso de Programação de Jogos Digitais?](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Metodologias%20de%20Desenvolvimento%20de%20Projetos%20-%20O%20que%20precisa%20para%20desenvolver%20um%20jogo.pdf)
+  - [O que esperar de um curso de Programação de Jogos Digitais](www.kahot.it)
 
   - [Matérias base dos curso](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Mat%C3%A9rias%20bases%20do%20curso.pdf)
 
