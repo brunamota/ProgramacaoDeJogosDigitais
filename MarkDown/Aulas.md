@@ -26,7 +26,9 @@
 
 <details>
  <summary> 📖 Saúde e Segurança no Trabalho e Sustentabilidade </summary>
+ 
   - [Metodologia 6s](https://github.com/brunamota/ProgramacaoDeJogosDigitais/blob/main/Slides/Sa%C3%BAde%20e%20Seguran%C3%A7a%20no%20Trabalho%20e%20Sustentabilidade%20-%20Metodologia%206s.pdf)
+ 
 </details>
 
  <details>
