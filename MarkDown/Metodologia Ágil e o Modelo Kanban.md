@@ -17,20 +17,11 @@
 ## 🛠️ 2. Etapas de um Processo Ágil
 As etapas podem variar dependendo da metodologia específica (Scrum, Kanban, XP, etc.), mas em geral, temos:
 
-### Planejamento Inicial (Product Backlog):
-- Definição dos requisitos iniciais e objetivos do projeto.
-
-### Divisão em Iterações (Sprints):
-- O projeto é dividido em ciclos curtos (ex: 1 ou 2 semanas), com entregas parciais.
-
-### Reuniões Diárias (Daily Meetings):
-- Curtas reuniões diárias para alinhamento da equipe.
-
-### Desenvolvimento Contínuo:
-- A cada sprint, uma parte funcional do produto é desenvolvida.
-
-### Revisão e Feedback (Review):
-- Ao fim da iteração, há uma reunião para apresentar resultados e ouvir feedback.
+- Planejamento Inicial (Product Backlog): Definição dos requisitos iniciais e objetivos do projeto.
+- Divisão em Iterações (Sprints): O projeto é dividido em ciclos curtos (ex: 1 ou 2 semanas), com entregas parciais.
+- Reuniões Diárias (Daily Meetings): Curtas reuniões diárias para alinhamento da equipe.
+- Desenvolvimento Contínuo: A cada sprint, uma parte funcional do produto é desenvolvida.
+- Revisão e Feedback (Review): Ao fim da iteração, há uma reunião para apresentar resultados e ouvir feedback.
 
 ### Retrospectiva:
 - A equipe analisa o que funcionou e o que pode melhorar.
@@ -42,7 +33,8 @@ As etapas podem variar dependendo da metodologia específica (Scrum, Kanban, XP,
 - Foi inspirada no sistema de produção da Toyota.
 
 ## 🧾 Quadro Kanban
-- Dividido geralmente em 3 colunas:
+
+Dividido geralmente em 3 colunas:
 
 | 📄 A Fazer (To Do) | 🔨 Em Andamento (Doing) | ✅ Concluído (Done) |
 | ------------- | ------------- | ------------- |
