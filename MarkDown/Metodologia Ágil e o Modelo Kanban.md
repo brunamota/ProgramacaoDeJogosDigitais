@@ -5,9 +5,13 @@
   - O modelo ágil é uma forma de gerenciar projetos de maneira flexível e incremental.
   - Surgiu como uma alternativa aos modelos tradicionais (como o modelo cascata), que são mais rígidos.
   - Foi formalizado no Manifesto Ágil (2001) com os seguintes valores principais:
+    
     🔹 Indivíduos e interações acima de processos e ferramentas
+    
     🔹 Software funcionando acima de documentação abrangente
+    
     🔹 Colaboração com o cliente acima de negociação de contratos
+
     🔹 Responder a mudanças acima de seguir um plano
 
 ## 🛠️ 2. Etapas de um Processo Ágil
@@ -47,19 +51,11 @@ Cada tarefa é representada por um cartão que se move de coluna conforme o prog
 
 ## 👥 4. Dinâmica ou Exemplo Prático
 
-Ferramenta Online
-
-Mostrar o Trello ou outro software de Kanban.
-
-Criar um projeto para o jogo que vão desenvolver.
-
-Definir o Backlog e o período das sprints
-
-
+- Criar conta no Trello ou outro software de Kanban.
+- Criar um projeto para o jogo que vão desenvolver.
+- Definir o Backlog e o período das sprints
 
 ## ✅ 5. Conclusão
-O modelo ágil é ótimo para projetos que precisam de flexibilidade.
-
-O Kanban ajuda a visualizar o trabalho e aumentar a produtividade.
-
-Essas ferramentas são muito usadas hoje em empresas de tecnologia, marketing, design e até educação!
+- O modelo ágil é ótimo para projetos que precisam de flexibilidade.
+- O Kanban ajuda a visualizar o trabalho e aumentar a produtividade.
+- Essas ferramentas são muito usadas hoje em empresas de tecnologia, marketing, design e até educação!
