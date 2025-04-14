@@ -42,7 +42,7 @@ Dividido geralmente em 3 colunas:
 
 Cada tarefa é representada por um cartão que se move de coluna conforme o progresso.
 
-## 👥 4. Dinâmica ou Exemplo Prático
+## 👥 4. Dinâmica Prático
 
 - Criar conta no Trello ou outro software de Kanban.
 - Criar um projeto para o jogo que vão desenvolver.
