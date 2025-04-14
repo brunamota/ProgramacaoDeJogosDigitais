@@ -44,7 +44,7 @@ As etapas podem variar dependendo da metodologia específica (Scrum, Kanban, XP,
 ## 🧾 Quadro Kanban
 - Dividido geralmente em 3 colunas:
 
-| A Fazer (To Do) | Em Andamento (Doing) | Concluído (Done) |
+| 📄 A Fazer (To Do) | 🔨 Em Andamento (Doing) | ✅ Concluído (Done) |
 | ------------- | ------------- | ------------- |
 | Tarefas ainda não iniciadas | Tarefas que estão sendo trabalhadas | Tarefas finalizadas |
 
