@@ -15,7 +15,7 @@
     🔹 Responder a mudanças acima de seguir um plano
 
 ## 🛠️ 2. Etapas de um Processo Ágil
-- As etapas podem variar dependendo da metodologia específica (Scrum, Kanban, XP, etc.), mas em geral, temos:
+As etapas podem variar dependendo da metodologia específica (Scrum, Kanban, XP, etc.), mas em geral, temos:
 
 ### Planejamento Inicial (Product Backlog):
 - Definição dos requisitos iniciais e objetivos do projeto.
@@ -43,6 +43,7 @@
 
 ## 🧾 Quadro Kanban
 - Dividido geralmente em 3 colunas:
+
 | A Fazer (To Do) | Em Andamento (Doing) | Concluído (Done) |
 | ------------- | ------------- | ------------- |
 | Tarefas ainda não iniciadas | Tarefas que estão sendo trabalhadas | Tarefas finalizadas |
